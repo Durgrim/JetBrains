@@ -127,6 +127,6 @@ while True:
     print("See you!")
     break  
   elif int(inp) > 5:
-    print('Animal cage not valid (input 0-5 or exit)')
+    print('There\'s no animal in that cage! (input between 0 and 5 or exit)')
   else:
     print(animals[int(inp)])
