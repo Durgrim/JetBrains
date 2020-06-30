@@ -5,5 +5,5 @@
 #### Hangman :bust_in_silhouette:	
 #### Credit Calculator :credit_card:
 #### Tic-Tac-Toe game :x: :x: :red_circle:
-
+#### Rock-Paper-Scissors :gem: :scroll: :scissors: 
 Find more info about these projects on [JetBrains Academy](https://www.jetbrains.com/academy/).
