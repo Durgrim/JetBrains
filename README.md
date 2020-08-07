@@ -9,5 +9,6 @@
 #### Numeric matrix processor :1234:
 #### Simple Banking System :bank: :credit_card:
 #### To-Do List :bookmark_tabs:
+#### Text-Based Browser :computer:
 
 Find more info about these projects on [JetBrains Academy](https://www.jetbrains.com/academy/).
